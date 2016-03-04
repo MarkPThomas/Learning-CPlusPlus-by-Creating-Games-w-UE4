@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\mark\documents\github\cplusplus\learning-cplusplus-by-creating-games-w-ue4\ch 2 - variables and memory\ex01 - player struct\source.cpp(27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Ex01 - Player Struct.vcxproj -> C:\Users\Mark\Documents\GitHub\CPlusPlus\Learning-CPlusPlus-by-Creating-Games-w-UE4\Ch 2 - Variables and Memory\Ex01 - Player Struct\Debug\Ex01 - Player Struct.exe
